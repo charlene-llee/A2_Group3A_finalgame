@@ -50,8 +50,9 @@ mailbox at the end of the map completes the game.
   continuous `WORLD` map
 - `js/game.js` — game engine: input, physics, collision, camera, rendering, and the
   checkpoint/respawn system
+  
 
-| files                                      | source                             |
+| Files                                      | Source                             |
 | ------------------------------------------ | ---------------------------------- |
 | `assets/images/mailman.png`                | Created in Copilot                 |
 | `assets/images/mailbox.png`                | Created in Copilot                 |
