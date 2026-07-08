@@ -57,6 +57,16 @@ mailbox at the end of the map completes the game.
 | `assets/images/mailbox.png`                | Created in Copilot                 |
 | `assets/images/levelbg.png`                | Created in Copilot                 |
 | `assets/images/titlebg.png`                | Created in Copilot                 |
+| `assets/images/2box.png`                   | Created in Copilot                 |
+| `assets/images/BG.png`                     | Created in Copilot                 |
+| `assets/images/whitedoc.png`               | Created in Copilot                 |
+| `assets/images/dog.png`                    | Created in Copilot                 |
+| `assets/images/levelbox.png`               | Created in Copilot                 |
+| `assets/images/levelselectbg.png`          | Created in Copilot                 |
+| `assets/images/mailboxdown.png`            | Created in Copilot                 |
+| `assets/images/mailboxup.png`              | Created in Copilot                 |
+| `assets/images/mailman.png`                | Created in Copilot                 |
+| `assets/images/titlebg.png`                | Created in Copilot                 |
 | `assets/sounds/background_music.mp3` [1]   | Title screen music                 |
 | `assets/sounds/button_click.mp3` [2]       | Button clicking sound effect       |
 | `assets/sounds/game_music.mp3` [4]         | Gameplay music                     |
