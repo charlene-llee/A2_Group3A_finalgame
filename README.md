@@ -51,14 +51,28 @@ mailbox at the end of the map completes the game.
 - `js/game.js` — game engine: input, physics, collision, camera, rendering, and the
   checkpoint/respawn system
 
-| files                                | source             |
-| ------------------------------------ | ------------------ |
-| `assets/images/mailman.png`          | Created in Copilot |
-| `assets/images/mailbox.png`          | Created in Copilot |
-| `assets/images/levelbg.png`          | Created in Copilot |
-| `assets/images/titlebg.png`          | Created in Copilot |
-| `assets/sounds/background_music.mp3` | Created in Copilot |
-| `assets/sounds/button_click.mp3`     | Created in Copilot |
-| `assets/sounds/game_music.mp3`       | Created in Copilot |
-| `assets/sounds/jump_sound.mp3`       | Created in Copilot |
-| `assets/sounds/mailbox_bell.mp3`     | Created in Copilot |
+| files                                      | source                             |
+| ------------------------------------------ | ---------------------------------- |
+| `assets/images/mailman.png`                | Created in Copilot                 |
+| `assets/images/mailbox.png`                | Created in Copilot                 |
+| `assets/images/levelbg.png`                | Created in Copilot                 |
+| `assets/images/titlebg.png`                | Created in Copilot                 |
+| `assets/sounds/background_music.mp3` [1]   | Title screen music                 |
+| `assets/sounds/button_click.mp3` [2]       | Button clicking sound effect       |
+| `assets/sounds/game_music.mp3` [4]         | Gameplay music                     |
+| `assets/sounds/jump_sound.mp3` [3]         | Sound effect when character jumps  |
+| `assets/sounds/mailbox_bell.mp3` [5]       | Bell sound when checkpoint reached |
+
+
+## References
+
+[1] YouTube. n.d. PLobY7vO0pgVIOZNKTVRhkPzrfCjDJ0CNl – Video. Retrieved July 7, 2026 from https://www.youtube.com/watch?v=lK33mkGZ5Sg&list=PLobY7vO0pgVIOZNKTVRhkPzrfCjDJ0CNl&index=6
+
+[2] Pixabay. n.d. Film Special Effects Button Click. Sound effect. Retrieved July 7, 2026 from https://pixabay.com/sound-effects/film-special-effects-button-click-289742/
+
+[3] Pixabay. n.d. Film Special Effects Jump Sound. Sound effect. Retrieved July 7, 2026 from https://pixabay.com/sound-effects/film-special-effects-jump-sound-531048/
+
+[4] Pixabay. n.d. Musical Music for Game Fun Kid Game. Sound effect. Retrieved July 7, 2026 from https://pixabay.com/sound-effects/musical-music-for-game-fun-kid-game-163649/
+
+[5] Pixabay. n.d. Film Special Effects Bell Sound. Sound effect. Retrieved July 7, 2026 from https://pixabay.com/sound-effects/film-special-effects-bell-sound-370341/
+
