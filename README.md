@@ -68,11 +68,11 @@ mailbox at the end of the map completes the game.
 | `assets/images/mailboxup.png`              | Created in Copilot                 |
 | `assets/images/mailman.png`                | Created in Copilot                 |
 | `assets/images/titlebg.png`                | Created in Copilot                 |
-| `assets/sounds/background_music.mp3` [1]   | Title screen music                 |
-| `assets/sounds/button_click.mp3` [2]       | Button clicking sound effect       |
-| `assets/sounds/game_music.mp3` [4]         | Gameplay music                     |
-| `assets/sounds/jump_sound.mp3` [3]         | Sound effect when character jumps  |
-| `assets/sounds/mailbox_bell.mp3` [5]       | Bell sound when checkpoint reached |
+| `assets/sounds/background_music.mp3` [1]   | Sourced from Youtube               |
+| `assets/sounds/button_click.mp3` [2]       | Sourced from Pixabay               |
+| `assets/sounds/game_music.mp3` [4]         | Sourced from Pixabay               |
+| `assets/sounds/jump_sound.mp3` [3]         | Sourced from Pixabay               |
+| `assets/sounds/mailbox_bell.mp3` [5]       | Sourced from Pixabay               |
 
 
 ## References
