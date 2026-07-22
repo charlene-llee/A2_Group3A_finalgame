@@ -4,6 +4,11 @@ A small browser platformer (vanilla HTML/CSS/JS, no build tools needed) made for
 assignment. Inspired by "Level Devil"-style rage-platformers, but reframed: each level's
 "gotcha" mechanic represents a different way a tic can present in Tourette Syndrome.
 
+## Design Rationale
+Through the game's theme, interactive cues, visual composition, graphics, and sound design, players can naturally identify which objects they can interact with and which they should avoid. Contextual feedback also helps communicate the purpose of each element. For example, an angry dog visually signals that it is a hazard and should be avoided. Similarly, solid black gaps that line up with the ground indicate that the floor is broken and unsafe to walk on. These affordances allow players to quickly understand the environment and learn how to respond to obstacles without relying on explicit instructions.
+The game is structured by levels with checkpoints, allowing players to obtain small achievements that encourages them to continue through the entire level. Stages within the level start easy to teach basic mechanics and affordances and get progressively more challenging at a steady slow rate. Players will face obstacles they've encountered before, encouraging them to use the knowledge and strategies they've already developed.
+Each level is designed around a different type of tic, such as irregular, cause-and-effect, or delayed tics, with obstacles appearing or changing. Tourette's syndrome is represented through these obstacles that interrupt the player’s progress, symbolizing the unpredictable nature of tics. This encourages players to be attentive within the game, adapt in the moment, and respond to unexpected challenges which reflect the real-life experience of managing tics.
+
 ## How to run
 
 Just open `index.html` in any modern browser (double-click it, or serve the folder with
@@ -40,6 +45,17 @@ level" — it sets that mailbox as your checkpoint. If you die anywhere on the m
 respawn at the most recent mailbox you've touched (or at the very start of the map if you
 haven't reached one yet), not at the beginning of the whole thing. Reaching the final
 mailbox at the end of the map completes the game.
+
+## Iterations
+
+Post Play test:
+- Decreased the difficulty of level 1 stage 5.
+- Changed the mailboxes from portals to checkpoints, creating a continuous level instead of separate stages.
+- Changed the boxes to dogs so players can better understand that the object is an obstacle.
+
+Post Showcase:
+- Making sure the progression is more graudual, some players have found the difficulty to have increased too quickly.
+- Overall making the game easier to new players.
 
 ## Files
 
